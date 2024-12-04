@@ -84,6 +84,15 @@ body{
 
 }
 
+.logo2{
+    background-image: url(logo2.jpg);
+    background-size: cover;
+    background-position: top;
+    height: 70px;
+    width: 110px;
+
+}
+
 #navbar{
     display: flex;
     align-items: center;
