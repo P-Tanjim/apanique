@@ -17,8 +17,10 @@ This is a **modern, stylish, and fully responsive** e-commerce website for a clo
 - **CSS3** – custom styling with animations and responsive design  
 - **JavaScript** – interactive elements, cart logic, and dynamic UI behavior
 
-##  Screenshots
-
+##  Website
+```bash
+ https://p-tanjim.github.io/apanique/
+```
 
 ##  Folder Structure
 ```bash
